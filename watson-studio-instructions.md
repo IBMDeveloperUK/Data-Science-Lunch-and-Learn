@@ -2,9 +2,7 @@
 
 ## Get a free IBM Cloud account <a id="get-a-free-ibm-cloud-account"></a>
 
-To follow along with the workshop start by signing up for a free Cloud account. Click on the below link and fill in the form. You will receive a verification code by email, so please use a real address.
-
-Sign up for a free IBM Cloud account: [http://ibm.biz/odsc\_ibm\_aiworkshop](http://ibm.biz/odsc_ibm_aiworkshop)
+To follow along with the workshop start by signing up for a free Cloud account. You can find the signup link on the crowdcast event page and it will also be shared during the Lunch & Learn. Once you filled in the form, you will receive a verification code by email, so please use a real address.
 
 Once your account is verified and set up, you will see this welcome screen. Click on the 🍔 in the top left corner to expand the contents list. At the top you can find more information about your account, documentation and available resources and services.
 
@@ -46,11 +44,11 @@ As before use the defaults to create this service in the next screen and then go
 
 In the Resources list click on **Watson Studio** and then on **Get Started** in the next screen:
 
-![](https://gblobscdn.gitbook.com/assets%2F-MFAEq_Dxo1LQbJu5R2R%2F-MFjvifiPqb2yiLofax-%2F-MFjwt7u6LAFxku0EYZI%2FScreenshot%202020-08-27%20at%2013.44.03.png?alt=media&token=66776c12-92f7-4e08-9c6e-9f9a76995b1c)
+![](https://github.com/MargrietGroenendijk/gitbooks/blob/master/.gitbook/assets/screenshot-2020-08-27-at-2013.44.03.png)
 
 This will open a new Tab in your browser where you should now see the below screen:
 
-![](.gitbook/assets/screenshot-2020-08-21-at-16.50.56.png)
+![](https://github.com/MargrietGroenendijk/gitbooks/blob/master/.gitbook/assets/screenshot-2020-08-21-at-16.50.56.png)
 
 ## Jupyter notebooks in Watson Studio <a id="jupyter-notebooks-in-watson-studio"></a>
 
@@ -62,11 +60,11 @@ Within the project we will use Jupyter notebooks that allow you to create and sh
 
 Click on **Start working** to create a project that will contain all the assets for this workshop:
 
-![](.gitbook/assets/screenshot-2020-08-21-at-16.50.56%20%281%29.png)
+![](https://github.com/MargrietGroenendijk/gitbooks/blob/master/.gitbook/assets/screenshot-2020-08-21-at-16.50.56.png)
 
 In the next screen click on **Create an empty project**. Then give your new project a name and click on Create in the bottom right:
 
-![](.gitbook/assets/screenshot-2020-09-03-at-10.50.45.png)
+![](https://github.com/MargrietGroenendijk/gitbooks/blob/master/.gitbook/assets/screenshot-2020-09-03-at-10.50.45.png)
 
 Your previously created Object Storage should be added automatically as above. But it is possible you have to select it from a drop-down menu first.
 
