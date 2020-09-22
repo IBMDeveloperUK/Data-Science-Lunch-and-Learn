@@ -44,7 +44,7 @@ As before use the defaults to create this service in the next screen and then go
 
 In the Resources list click on **Watson Studio** and then on **Get Started** in the next screen:
 
-![](https://github.com/MargrietGroenendijk/gitbooks/blob/master/.gitbook/assets/screenshot-2020-08-27-at-2013.44.03.png)
+![](https://github.com/MargrietGroenendijk/gitbooks/blob/master/.gitbook/assets/screenshot-2020-08-27-at-13.44.03.png)
 
 This will open a new Tab in your browser where you should now see the below screen:
 
@@ -72,7 +72,7 @@ Your previously created Object Storage should be added automatically as above. B
 
 Click on **Add to project** at the top right and you will see the below menu with a list of all assets you can add. Click on **Notebook** to add one.
 
-![](.gitbook/assets/screenshot-2020-09-03-at-10.56.21.png)
+![](https://github.com/MargrietGroenendijk/gitbooks/blob/master/.gitbook/assets/screenshot-2020-09-03-at-10.56.21.png)
 
 This will bring you here, where you can create a new notebook, add one from a local file or from a URL:
 
