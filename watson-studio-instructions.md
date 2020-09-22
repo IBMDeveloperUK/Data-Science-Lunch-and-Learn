@@ -70,3 +70,20 @@ Your previously created Object Storage should be added automatically as above. B
 
 **Welcome to your new project!** Here you can store notebooks, data and much more. You can also add collaborators, schedule jobs and customise runtime environments. 
 
+Click on **Add to project** at the top right and you will see the below menu with a list of all assets you can add. Click on **Notebook** to add one.
+
+![](.gitbook/assets/screenshot-2020-09-03-at-10.56.21.png)
+
+This will bring you here, where you can create a new notebook, add one from a local file or from a URL:
+
+![](https://github.com/MargrietGroenendijk/gitbooks/blob/master/.gitbook/assets/screenshot-2020-09-03-at-11.22.15.png)
+
+To load the first notebook for this workshop, select **From URL**, give the notebook a name, paste the raw link to the notebook in the **Notebook URL** field and then click the **Create** button at the bottom right. You can leave the runtime as the default. The raw links for the notebooks are in the [events list](https://github.com/IBMDeveloperUK/data-science-lunch-and-learn/blob/master/README.md).
+
+### Running a notebook
+
+Now a kernel is being spun up and the notebook loaded:
+
+![](https://github.com/MargrietGroenendijk/gitbooks/blob/master/.gitbook/assets/screenshot-2020-09-03-at-11.28.05.png)
+
+Run each cell in order by selecting it, and then clicking the ▶︎ Run button at the top or use **Shift-Enter**. 
