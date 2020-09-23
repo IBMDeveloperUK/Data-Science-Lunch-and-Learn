@@ -19,7 +19,10 @@ Online at 12.30 BST / 13.30 CEST on [Crowdcast](https://www.crowdcast.io/ibmdeve
 ## Past events
 
 
-21 Sept 2020 - Exploring COVID data with pandas - [Replay](https://www.crowdcast.io/e/data-science-lunchlearn-covid?utm_source=profile&utm_medium=profile_web&utm_campaign=profile), [Notebook](https://gitlab.com/dzwietering/corona/-/blob/master/EUCDC.ipynb)
+21 Sept 2020 - Exploring COVID data with pandas
+* [Replay](https://www.crowdcast.io/e/data-science-lunchlearn-covid?utm_source=profile&utm_medium=profile_web&utm_campaign=profile)
+* [Notebook](https://gitlab.com/dzwietering/corona/-/blob/master/EUCDC.ipynb)
+* Raw link to notebook: ``
 
 8 Sept 2020 - Data Visualisation 101 with Python - [Replay](https://www.crowdcast.io/e/data-visualisation-101?utm_source=profile&utm_medium=profile_web&utm_campaign=profile), [Notebook](https://github.com/IBMDeveloperUK/Data-Visualisation-with-Python/blob/master/Notebook/Data_Viz.ipynb)
 
