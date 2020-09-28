@@ -8,9 +8,6 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 ## Upcoming events
 
-28 Sept 2020: Detecting bias in crime data - part 1 
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and)
-
 5 Oct 2020: Modeling COVID data 
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-2)
 
@@ -34,6 +31,8 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 ## Past events
 
+28 Sept 2020: Detecting bias in crime data - part 1 
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-and)
 
 21 Sept 2020 - Exploring COVID data with pandas
 * [Replay](https://www.crowdcast.io/e/data-science-lunchlearn-COVID)
