@@ -8,9 +8,11 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 ## Upcoming events
 
-28 Sept 2020: Detecting bias in crime data - part 1 - [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and)
+28 Sept 2020: Detecting bias in crime data - part 1 
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and)
 
-5 Oct 2020: Modeling COVID data - [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-2)
+5 Oct 2020: Modeling COVID data 
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-2)
 
 12 Oct 2020: Getting started with scikit-learn
 
@@ -34,9 +36,9 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 
 21 Sept 2020 - Exploring COVID data with pandas
-* [Replay](https://www.crowdcast.io/e/data-science-lunchlearn-covid?utm_source=profile&utm_medium=profile_web&utm_campaign=profile)
+* [Replay](https://www.crowdcast.io/e/data-science-lunchlearn-COVID)
 * [Notebook](https://gitlab.com/dzwietering/corona/-/blob/master/EUCDC.ipynb): `https://gitlab.com/dzwietering/corona/-/raw/master/EUCDC.ipynb`
 
 8 Sept 2020 - Data Visualisation 101 with Python 
-* [Replay](https://www.crowdcast.io/e/data-visualisation-101?utm_source=profile&utm_medium=profile_web&utm_campaign=profile)
+* [Replay](https://www.crowdcast.io/e/data-visualisation-101)
 * [Notebook](https://github.com/IBMDeveloperUK/Data-Visualisation-with-Python/blob/master/Notebook/Data_Viz.ipynb): `https://github.com/IBMDeveloperUK/Data-Visualisation-with-Python/blob/master/Notebook/Data_Viz.ipynb`
