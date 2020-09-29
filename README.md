@@ -4,7 +4,7 @@ Online at 12.30 BST / 13.30 CEST on [Crowdcast](https://www.crowdcast.io/ibmdeve
 
 ## Jupyter notebooks
 
-Most of the events use a notebook to go through example code. We will mainly use Watson Studio to run these, but you can run them on any platform. To follow along in Watson Studio sign up for a [free IBM Cloud account](http://ibm.biz/crowdcast_289) and create a Watson Studio service as described in [these instructions](https://github.com/IBMDeveloperUK/data-science-lunch-and-learn/blob/master/watson-studio-instructions.md). You can use a url to load a notebook that you can find below for each of the events to get up and running quickly to follow along during the event. 
+Most of the events use a notebook to go through example code. We will mainly use Watson Studio to run these, but you can run them on any platform. To follow along in Watson Studio sign up for a [free IBM Cloud account](https://ibm.biz/BdqQ4D) and create a Watson Studio service as described in [these instructions](https://github.com/IBMDeveloperUK/data-science-lunch-and-learn/blob/master/watson-studio-instructions.md). You can use a url to load a notebook that you can find below for each of the events to get up and running quickly to follow along during the event. 
 
 ## Upcoming events
 
