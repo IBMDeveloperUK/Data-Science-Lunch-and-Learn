@@ -8,36 +8,49 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 ## Upcoming events
 
-5 Oct 2020: Modeling COVID data 
+#### 5 Oct 2020: Modeling COVID data
+* Presenter: Damiaan Zwietering
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-2)
 
-12 Oct 2020: Getting started with scikit-learn
+#### 12 Oct 2020: Getting started with scikit-learn
+* Presenter: Margriet Groenendijk
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-)
 
-19 Oct 2020: Fitting the COVID curves
+#### 19 Oct 2020: Fitting the COVID curves
+* Presenter: Damiaan Zwietering
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-3)
 
-26 Oct 2020: Classification Models using Python and Scikit-Learn 
+#### 26 Oct 2020: Classification Models using Python and Scikit-Learn 
+* Presenter: Yamini Rao
 
-2 Nov 2020: Mapping COVID projections
+#### 2 Nov 2020: Mapping COVID projections
+* Presenter: Damiaan Zwietering
 
-9 Nov 2020: Detecting bias in crime data - part 2: fairness metrics
+#### 9 Nov 2020: Detecting bias in crime data - part 2: fairness metrics
+* Presenter: Margriet Groenendijk
 
-16 Nov 2020: Learn clustering algorithms using Python and scikit-learn
+#### 16 Nov 2020: Learn clustering algorithms using Python and scikit-learn
 
-23 Nov 2020: Detecting bias in crime data - part 3: bias over time
+#### 23 Nov 2020: Detecting bias in crime data - part 3: bias over time
+* Presenter: Margriet Groenendijk
 
-30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
+#### 30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
 
-7 Dec 2020: Detecting bias in crime data - part 4: creating maps
+#### 7 Dec 2020: Detecting bias in crime data - part 4: creating maps
+* Presenter: Margriet Groenendijk
 
 ## Past events
 
-28 Sept 2020: Detecting bias in crime data - part 1 
+#### 28 Sept 2020: Detecting bias in crime data - part 1
+* Presenter: Margriet Groenendijk
 * [Replay](https://www.crowdcast.io/e/data-science-lunch-and)
 
-21 Sept 2020 - Exploring COVID data with pandas
+#### 21 Sept 2020 - Exploring COVID data with pandas
+* Presenter: Damiaan Zwietering
 * [Replay](https://www.crowdcast.io/e/data-science-lunchlearn-COVID)
 * [Notebook](https://gitlab.com/dzwietering/corona/-/blob/master/EUCDC.ipynb): `https://gitlab.com/dzwietering/corona/-/raw/master/EUCDC.ipynb`
 
-8 Sept 2020 - Data Visualisation 101 with Python 
+#### 8 Sept 2020 - Data Visualisation 101 with Python
+* Presenter: Yamini Rao
 * [Replay](https://www.crowdcast.io/e/data-visualisation-101)
 * [Notebook](https://github.com/IBMDeveloperUK/Data-Visualisation-with-Python/blob/master/Notebook/Data_Viz.ipynb): `https://github.com/IBMDeveloperUK/Data-Visualisation-with-Python/blob/master/Notebook/Data_Viz.ipynb`
