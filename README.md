@@ -2,10 +2,17 @@
 
 Online at 12.30 BST / 13.30 CEST on [Crowdcast](https://www.crowdcast.io/ibmdevelopereurope)
 
+## Content
+* [Jupyter notebooks](#Jupyter)
+* [Upcoming events](#Upcoming)
+* [Past events](#Past)
+
+<a class="anchor" id="Jupyter"></a>
 ## Jupyter notebooks
 
 Most of the events use a notebook to go through example code. We will mainly use Watson Studio to run these, but you can run them on any platform. To follow along in Watson Studio sign up for a [free IBM Cloud account](https://ibm.biz/BdqQ4D) and create a Watson Studio service as described in [these instructions](https://github.com/IBMDeveloperUK/data-science-lunch-and-learn/blob/master/watson-studio-instructions.md). You can use a url to load a notebook that you can find below for each of the events to get up and running quickly to follow along during the event. 
 
+<a class="anchor" id="Upcoming"></a>
 ## Upcoming events
 
 #### 5 Oct 2020: Modeling COVID data
@@ -39,6 +46,7 @@ Most of the events use a notebook to go through example code. We will mainly use
 #### 7 Dec 2020: Detecting bias in crime data - part 4: creating maps
 * Presenter: Margriet Groenendijk
 
+<a class="anchor" id="Past"></a>
 ## Past events
 
 #### 28 Sept 2020: Detecting bias in crime data - part 1
