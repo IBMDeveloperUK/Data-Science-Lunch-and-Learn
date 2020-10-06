@@ -15,10 +15,6 @@ Most of the events use a notebook to go through example code. We will mainly use
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
 
-#### 5 Oct 2020: Modeling COVID data
-* Presenter: Damiaan Zwietering
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-2)
-
 #### 12 Oct 2020: Getting started with scikit-learn
 * Presenter: Margriet Groenendijk
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-)
@@ -48,6 +44,13 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 <a class="anchor" id="Past"></a>
 ## Past events
+
+#### 5 Oct 2020: Modeling COVID data
+* Presenter: Damiaan Zwietering
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-and-2)
+* [Notebook 1](https://gitlab.com/dzwietering/corona/-/blob/master/Gumbelpivot.ipynb): `https://gitlab.com/dzwietering/corona/-/raw/master/Gumbelpivot.ipynb`
+* [Notebook 2](https://gitlab.com/dzwietering/corona/-/blob/master/Gumbelmulti.ipynb): `https://gitlab.com/dzwietering/corona/-/raw/master/Gumbelmulti.ipynb`
+* [Notebook 3](https://gitlab.com/dzwietering/corona/-/blob/master/Measures.ipynb): `https://gitlab.com/dzwietering/corona/-/raw/master/Measures.ipynb`
 
 #### 28 Sept 2020: Detecting bias in crime data - part 1
 * Presenter: Margriet Groenendijk
