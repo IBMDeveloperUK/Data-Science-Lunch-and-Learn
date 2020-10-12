@@ -10,7 +10,7 @@ Online at 12.30 BST / 13.30 CEST on [Crowdcast](https://www.crowdcast.io/ibmdeve
 <a class="anchor" id="Jupyter"></a>
 ## Jupyter notebooks
 
-Most of the events use a notebook to go through example code. We will mainly use Watson Studio to run these, but you can run them on any platform. To follow along in Watson Studio sign up for a [free IBM Cloud account](https://ibm.biz/BdqQ4F) and create a Watson Studio service as described in [these instructions](https://github.com/IBMDeveloperUK/data-science-lunch-and-learn/blob/master/watson-studio-instructions.md). Use the below urls to load the notebook for each of the events to follow along during the event. 
+Most of the events use a notebook to go through example code. We will mainly use Watson Studio to run these, but you can run them on any platform. To follow along in Watson Studio sign up for a [free IBM Cloud account](http://ibm.biz/ibmcloudsignup) and create a Watson Studio service as described in [these instructions](https://github.com/IBMDeveloperUK/data-science-lunch-and-learn/blob/master/watson-studio-instructions.md). Use the below urls to load the notebook for each of the events to follow along during the event. 
 
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
@@ -18,6 +18,8 @@ Most of the events use a notebook to go through example code. We will mainly use
 #### 12 Oct 2020: Getting started with scikit-learn
 * Presenter: Margriet Groenendijk
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-)
+* [Notebook](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/blob/master/notebooks/20-10-12-getting-started-sklearn.ipynb): 
+`https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/blob/master/notebooks/20-10-12-getting-started-sklearn.ipynb`
 
 #### 19 Oct 2020: Fitting the COVID curves
 * Presenter: Damiaan Zwietering
@@ -55,6 +57,8 @@ Most of the events use a notebook to go through example code. We will mainly use
 #### 28 Sept 2020: Detecting bias in crime data - part 1
 * Presenter: Margriet Groenendijk
 * [Replay](https://www.crowdcast.io/e/data-science-lunch-and)
+* [Notebook](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/blob/master/notebooks/bias-in-crime-data-1-v0.ipynb): 
+`https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/blob/master/notebooks/bias-in-crime-data-1-v0.ipynb`
 
 #### 21 Sept 2020 - Exploring COVID data with pandas
 * Presenter: Damiaan Zwietering
