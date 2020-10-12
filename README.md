@@ -15,12 +15,6 @@ Most of the events use a notebook to go through example code. We will mainly use
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
 
-#### 12 Oct 2020: Getting started with scikit-learn
-* Presenter: Margriet Groenendijk
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-)
-* [Notebook](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/blob/master/notebooks/20-10-12-getting-started-sklearn.ipynb): 
-`https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/blob/master/notebooks/20-10-12-getting-started-sklearn.ipynb`
-
 #### 19 Oct 2020: Fitting the COVID curves
 * Presenter: Damiaan Zwietering
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-3)
@@ -48,6 +42,12 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 <a class="anchor" id="Past"></a>
 ## Past events
+
+#### 12 Oct 2020: Getting started with scikit-learn
+* Presenter: Margriet Groenendijk
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-)
+* [Notebook](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/blob/master/notebooks/20-10-12-getting-started-sklearn.ipynb): 
+`https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/blob/master/notebooks/20-10-12-getting-started-sklearn.ipynb`
 
 #### 5 Oct 2020: Modeling COVID data
 * Presenter: Damiaan Zwietering
