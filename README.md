@@ -23,21 +23,29 @@ Most of the events use a notebook to go through example code. We will mainly use
 * Presenter: Yamini Rao
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-4/register)
 
-
 #### 2 Nov 2020: Mapping COVID projections
 * Presenter: Damiaan Zwietering
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-5)
 
 #### 9 Nov 2020: Detecting bias in crime data - part 2: fairness metrics
 * Presenter: Margriet Groenendijk
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-6)
 
-#### 16 Nov 2020: Learn clustering algorithms using Python and scikit-learn
+#### 16 Nov 2020: AMA with Damiaan
+* Presenter: Damiaan Zwietering
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-7)
 
-#### 23 Nov 2020: Detecting bias in crime data - part 3: bias over time
-* Presenter: Margriet Groenendijk
+#### 23 Nov 2020: Learn clustering algorithms using Python and scikit-learn
+* Presenter: Fawaz Siddiqi
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-8)
 
 #### 30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
+* Presenter: Mridul Bhandari
 
-#### 7 Dec 2020: Detecting bias in crime data - part 4: creating maps
+#### 7 Dec 2020: Detecting bias in crime data - part 3
+* Presenter: Margriet Groenendijk
+
+#### 14 Dec 2020: Show and tell
 * Presenter: Margriet Groenendijk
 
 <a class="anchor" id="Past"></a>
