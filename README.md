@@ -27,7 +27,7 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 #### 26 Oct 2020: Classification Models using Python and Scikit-Learn 
 * Presenter: Yamini Rao
-[Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-4/register)
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-4/register)
 
 
 #### 2 Nov 2020: Mapping COVID projections
