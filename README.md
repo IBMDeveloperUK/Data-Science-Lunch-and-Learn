@@ -18,6 +18,7 @@ Most of the events use a notebook to go through example code. We will mainly use
 #### 19 Oct 2020: Fitting the COVID curves
 * Presenter: Damiaan Zwietering
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-3)
+* [Notebook](https://gitlab.com/dzwietering/corona/-/blob/master/Gumbelpivot.ipynb): `https://gitlab.com/dzwietering/corona/-/raw/master/Gumbelpivot.ipynb`
 
 #### 26 Oct 2020: Classification Models using Python and Scikit-Learn 
 * Presenter: Yamini Rao
