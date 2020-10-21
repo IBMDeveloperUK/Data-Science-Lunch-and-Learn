@@ -15,11 +15,6 @@ Most of the events use a notebook to go through example code. We will mainly use
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
 
-#### 19 Oct 2020: Fitting the COVID curves
-* Presenter: Damiaan Zwietering
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-3)
-* [Notebook](https://gitlab.com/dzwietering/corona/-/blob/master/Gumbelpivot.ipynb): `https://gitlab.com/dzwietering/corona/-/raw/master/Gumbelpivot.ipynb`
-
 #### 26 Oct 2020: Classification Models using Python and Scikit-Learn 
 * Presenter: Yamini Rao
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-4/register)
@@ -29,7 +24,7 @@ Most of the events use a notebook to go through example code. We will mainly use
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-5)
 
 #### 9 Nov 2020: Detecting bias in crime data - part 2: fairness metrics
-* Presenter: Margriet Groenendijk
+* Presenter: Patrick Titzler
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-6)
 
 #### 16 Nov 2020: AMA with Damiaan
@@ -42,6 +37,7 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 #### 30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
 * Presenter: Mridul Bhandari
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-9)
 
 #### 7 Dec 2020: Detecting bias in crime data - part 3
 * Presenter: Margriet Groenendijk
@@ -51,6 +47,11 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 <a class="anchor" id="Past"></a>
 ## Past events
+
+#### 19 Oct 2020: Fitting the COVID curves
+* Presenter: Damiaan Zwietering
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-and-3)
+* [Notebook](https://gitlab.com/dzwietering/corona/-/blob/master/Gumbelpivot.ipynb): `https://gitlab.com/dzwietering/corona/-/raw/master/Gumbelpivot.ipynb`
 
 #### 12 Oct 2020: Getting started with scikit-learn
 * Presenter: Margriet Groenendijk
