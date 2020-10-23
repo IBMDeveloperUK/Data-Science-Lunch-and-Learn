@@ -23,7 +23,7 @@ Most of the events use a notebook to go through example code. We will mainly use
 * Presenter: Damiaan Zwietering
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-5)
 
-#### 9 Nov 2020: Detecting bias in crime data - part 2: fairness metrics
+#### 9 Nov 2020: Automate your machine learning workflow tasks using Elyra and Kubeflow Pipelines
 * Presenter: Patrick Titzler
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-6)
 
