@@ -15,10 +15,6 @@ Most of the events use a notebook to go through example code. We will mainly use
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
 
-#### 26 Oct 2020: Classification Models using Python and Scikit-Learn 
-* Presenter: Yamini Rao
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-4/register)
-
 #### 2 Nov 2020: Mapping COVID projections
 * Presenter: Damiaan Zwietering
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-5)
@@ -47,6 +43,12 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 <a class="anchor" id="Past"></a>
 ## Past events
+
+#### 26 Oct 2020: Classification Models using Python and Scikit-Learn 
+* Presenter: Yamini Rao
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-and-4/register)
+* [Notebook](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/blob/master/notebooks/Classification_models.ipynb): 
+`https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/blob/master/notebooks/Classification_models.ipynb`
 
 #### 19 Oct 2020: Fitting the COVID curves
 * Presenter: Damiaan Zwietering
