@@ -2,7 +2,7 @@
 
 ## Get a free IBM Cloud account <a id="get-a-free-ibm-cloud-account"></a>
 
-To follow along with the workshop start by signing up for a [free Cloud account](http://ibm.biz/crowdcast_289). After filling in the form, you will receive a verification code by email, so please use a real address.
+To follow along with the workshop start by signing up for a [free Cloud account](https://ibm.biz/BdqQ4H). After filling in the form, you will receive a verification code by email, so please use a real address.
 
 Once your account is verified and set up, you will see this welcome screen. Click on the 🍔 in the top left corner to expand the contents list. At the top you can find more information about your account, documentation and available resources and services.
 
