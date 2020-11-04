@@ -31,8 +31,8 @@ Most of the events use a notebook to go through example code. We will mainly use
 * Presenter: Mridul Bhandari
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-9)
 
-#### 7 Dec 2020: Show and tell
-* Presenter: Margriet Groenendijk
+#### 7 Dec 2020: Deep Reinforcement Learning in Finance / Trading using Ray and RLlib
+* Presenter: Romeo Kienzler
 
 #### 14 Dec 2020: Show and tell
 * Presenter: Margriet Groenendijk
