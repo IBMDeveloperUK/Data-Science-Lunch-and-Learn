@@ -15,10 +15,6 @@ Most of the events use a notebook to go through example code. We will mainly use
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
 
-#### 2 Nov 2020: Mapping COVID projections
-* Presenter: Damiaan Zwietering
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-5)
-
 #### 9 Nov 2020: Automate your machine learning workflow tasks using Elyra and Kubeflow Pipelines
 * Presenter: Patrick Titzler
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-6)
@@ -43,6 +39,10 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 <a class="anchor" id="Past"></a>
 ## Past events
+
+#### 2 Nov 2020: Mapping COVID projections
+* Presenter: Damiaan Zwietering
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-and-5)
 
 #### 26 Oct 2020: Classification Models using Python and Scikit-Learn 
 * Presenter: Yamini Rao
