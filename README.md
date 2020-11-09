@@ -16,7 +16,7 @@ Most of the events use a notebook to go through example code. We will mainly use
 ## Upcoming events
 
 #### 9 Nov 2020: Automate your machine learning workflow tasks using Elyra and Kubeflow Pipelines
-* Presenter: Patrick Titzler - (twitter)[https://twitter.com/ptitzler] / (LinkedIn)[https://www.linkedin.com/in/patrick-titzler/]
+* Presenter: Patrick Titzler - [twitter](https://twitter.com/ptitzler) / [LinkedIn](https://www.linkedin.com/in/patrick-titzler/)
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-6)
 * [Slides and resources](https://github.com/CODAIT/presentations/tree/master/talks/2020-11-09_ds_lunch_and_learn)
 * [Elyra docs](https://elyra.readthedocs.io/en/latest/)
