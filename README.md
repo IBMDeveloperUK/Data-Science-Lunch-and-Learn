@@ -18,6 +18,9 @@ Most of the events use a notebook to go through example code. We will mainly use
 #### 9 Nov 2020: Automate your machine learning workflow tasks using Elyra and Kubeflow Pipelines
 * Presenter: Patrick Titzler
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-6)
+* [Slides]()
+* [Elyra docs](https://elyra.readthedocs.io/en/latest/)
+* [Blog](https://dev.to/ibmdeveloper/automate-your-machine-learning-workflow-tasks-using-elyra-and-kubeflow-pipelines-5d6n)
 
 #### 16 Nov 2020: AMA with Damiaan
 * Presenter: Damiaan Zwietering
