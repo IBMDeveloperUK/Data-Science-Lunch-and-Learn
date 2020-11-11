@@ -2,10 +2,14 @@
 
 Online at 12.30 BST / 13.30 CEST on [Crowdcast](https://www.crowdcast.io/ibmdevelopereurope)
 
+## 16 Nov 2020: AMA with Damiaan on COVID data analysis
+* Presenter: Damiaan Zwietering
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-7)
+
 ## Content
 * [Jupyter notebooks](#Jupyter)
 * [Upcoming events](#Upcoming)
-* [Past events](#Past)
+* [Past events 2020](#Past)
 
 <a class="anchor" id="Jupyter"></a>
 ## Jupyter notebooks
@@ -14,13 +18,6 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
-
-#### 9 Nov 2020: Automate your machine learning workflow tasks using Elyra and Kubeflow Pipelines
-* Presenter: Patrick Titzler - [twitter](https://twitter.com/ptitzler) / [LinkedIn](https://www.linkedin.com/in/patrick-titzler/)
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-6)
-* [Slides and resources](https://github.com/CODAIT/presentations/tree/master/talks/2020-11-09_ds_lunch_and_learn)
-* [Elyra docs](https://elyra.readthedocs.io/en/latest/)
-* [Blog](https://dev.to/ibmdeveloper/automate-your-machine-learning-workflow-tasks-using-elyra-and-kubeflow-pipelines-5d6n)
 
 #### 16 Nov 2020: AMA with Damiaan
 * Presenter: Damiaan Zwietering
@@ -42,6 +39,13 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 <a class="anchor" id="Past"></a>
 ## Past events
+
+#### 9 Nov 2020: Automate your machine learning workflow tasks using Elyra and Kubeflow Pipelines
+* Presenter: Patrick Titzler - [twitter](https://twitter.com/ptitzler) / [LinkedIn](https://www.linkedin.com/in/patrick-titzler/)
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-and-6)
+* [Slides and resources](https://github.com/CODAIT/presentations/tree/master/talks/2020-11-09_ds_lunch_and_learn)
+* [Elyra docs](https://elyra.readthedocs.io/en/latest/)
+* [Blog](https://dev.to/ibmdeveloper/automate-your-machine-learning-workflow-tasks-using-elyra-and-kubeflow-pipelines-5d6n)
 
 #### 2 Nov 2020: Mapping COVID projections
 * Presenter: Damiaan Zwietering
