@@ -2,9 +2,11 @@
 
 Online at 12.30 BST / 13.30 CEST on [Crowdcast](https://www.crowdcast.io/ibmdevelopereurope)
 
-## 16 Nov 2020: AMA with Damiaan on COVID data analysis
-* Presenter: Damiaan Zwietering
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-7)
+## 23 Nov 2020: Learn clustering algorithms using Python and scikit-learn
+* Presenter: Fawaz Siddiqi
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-8)
+* [Slides](https://ibm.biz/LNL-Clustering)
+* [Handson material](https://github.com/fawazsiddiqi/LnL-CLustering)
 
 ## Content
 * [Jupyter notebooks](#Jupyter)
@@ -19,13 +21,11 @@ Most of the events use a notebook to go through example code. We will mainly use
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
 
-#### 16 Nov 2020: AMA with Damiaan
-* Presenter: Damiaan Zwietering
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-7)
-
 #### 23 Nov 2020: Learn clustering algorithms using Python and scikit-learn
 * Presenter: Fawaz Siddiqi
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-8)
+* [Slides](https://ibm.biz/LNL-Clustering)
+* [Handson material](https://github.com/fawazsiddiqi/LnL-CLustering)
 
 #### 30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
 * Presenter: Mridul Bhandari
@@ -46,6 +46,7 @@ Most of the events use a notebook to go through example code. We will mainly use
 * 5 Oct 2020: Modeling COVID data ([Replay](https://www.crowdcast.io/e/data-science-lunch-and-2))
 * 19 Oct 2020: Fitting the COVID curves ([Replay](https://www.crowdcast.io/e/data-science-lunch-and-3))
 * 2 Nov 2020: Mapping COVID projections ([Replay](https://www.crowdcast.io/e/data-science-lunch-and-5))
+* 16 Nov 2020: AMA with Damiaan ([Replay](https://www.crowdcast.io/e/data-science-lunch-and-7))
 
 #### 9 Nov 2020: Automate your machine learning workflow tasks using Elyra and Kubeflow Pipelines
 * Presenter: Patrick Titzler - [twitter](https://twitter.com/ptitzler) / [LinkedIn](https://www.linkedin.com/in/patrick-titzler/)
