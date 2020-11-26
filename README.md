@@ -1,12 +1,10 @@
 # Every Monday: Data Science Lunch & Learn
 
-Online at 12.30 BST / 13.30 CEST on [Crowdcast](https://www.crowdcast.io/ibmdevelopereurope)
+Online at lunch time on [Crowdcast](https://www.crowdcast.io/ibmdevelopereurope)
 
-## 23 Nov 2020: Learn clustering algorithms using Python and scikit-learn
-* Presenter: Fawaz Siddiqi
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-8)
-* [Slides](https://ibm.biz/LNL-Clustering)
-* [Handson material](https://github.com/fawazsiddiqi/LnL-CLustering)
+## 30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
+* Presenter: Mridul Bhandari
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-9)
 
 ## Content
 * [Jupyter notebooks](#Jupyter)
@@ -21,24 +19,29 @@ Most of the events use a notebook to go through example code. We will mainly use
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
 
-#### 23 Nov 2020: Learn clustering algorithms using Python and scikit-learn
-* Presenter: Fawaz Siddiqi
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-8)
-* [Slides](https://ibm.biz/LNL-Clustering)
-* [Handson material](https://github.com/fawazsiddiqi/LnL-CLustering)
-
 #### 30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
 * Presenter: Mridul Bhandari
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-9)
 
 #### 7 Dec 2020: Deep Reinforcement Learning in Finance / Trading using Ray and RLlib
 * Presenter: Romeo Kienzler
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-10)
 
-#### 14 Dec 2020: Show and tell
-* Presenter: Margriet Groenendijk
+#### 14 Dec 2020: Teaching Computers to Read
+* Presenter: Ed Shee
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-11)
+
+#### 2021: You?
+* Suggestions on topics and speakers are always welcome! Let me know by creating an [issue](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/issues) in this repo
 
 <a class="anchor" id="Past"></a>
 ## Past events
+
+## 23 Nov 2020: Learn clustering algorithms using Python and scikit-learn
+* Presenter: Fawaz Siddiqi - [twitter](https://twitter.com/fawaz_siddiqi) / [linkedIn](https://www.linkedin.com/in/fawazsiddiqi/)
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-and-8)
+* [Slides](https://ibm.biz/LNL-Clustering)
+* [Handson material](https://github.com/fawazsiddiqi/LnL-CLustering)
 
 ### Series on COVID data analysis by [Damiaan Zwietering](https://twitter.com/dzwietering)
 * Find all notebooks in [this repo](https://gitlab.com/dzwietering/corona/-/tree/master/pydata)
