@@ -6,6 +6,7 @@ Online at lunch time on [Crowdcast](https://www.crowdcast.io/ibmdevelopereurope)
 * [Jupyter notebooks](#Jupyter)
 * [Upcoming events](#Upcoming)
 * [Past events 2020](#Past)
+* [More events and resources](#resources)
 
 <a class="anchor" id="Jupyter"></a>
 ## Jupyter notebooks
@@ -15,21 +16,21 @@ Most of the events use a notebook to go through example code. We will mainly use
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
 
-#### 7 Dec 2020: Deep Reinforcement Learning in Finance / Trading using Ray and RLlib
+### 7 Dec 2020: Deep Reinforcement Learning in Finance / Trading using Ray and RLlib
 * Presenter: Romeo Kienzler
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-10)
 
-#### 14 Dec 2020: Teaching Computers to Read
+### 14 Dec 2020: Teaching Computers to Read
 * Presenter: Ed Shee
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-11)
 
-#### 2021: You?
+### 2021: You?
 * Suggestions on topics and speakers are always welcome! Let me know by creating an [issue](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/issues) in this repo
 
 <a class="anchor" id="Past"></a>
 ## Past events
 
-### 30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
+#### 30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
 * Presenter: Mridul Bhandari - [twitter](https://twitter.com/mridulrb) / [linkedIn](https://www.linkedin.com/in/mridul-bhandari/)
 * [Replay](https://www.crowdcast.io/e/data-science-lunch-and-9)
 * [Notebook](https://github.com/mridulrb/Predict-loan-eligibility-using-IBM-Watson-Studio): `https://raw.githubusercontent.com/mridulrb/Predict-loan-eligibility-using-IBM-Watson-Studio/master/loan-eligibility.ipynb`
@@ -37,13 +38,13 @@ Most of the events use a notebook to go through example code. We will mainly use
 * [Blog](https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057)
  and [tutorial](https://developer.ibm.com/tutorials/predict-loan-eligibility-using-jupyter-notebook-ibm-spss-modeler/)
 
-### 23 Nov 2020: Learn clustering algorithms using Python and scikit-learn
+#### 23 Nov 2020: Learn clustering algorithms using Python and scikit-learn
 * Presenter: Fawaz Siddiqi - [twitter](https://twitter.com/fawaz_siddiqi) / [linkedIn](https://www.linkedin.com/in/fawazsiddiqi/)
 * [Replay](https://www.crowdcast.io/e/data-science-lunch-and-8)
 * [Slides](https://ibm.biz/LNL-Clustering)
 * [Handson material](https://github.com/fawazsiddiqi/LnL-CLustering)
 
-### Series on COVID data analysis 
+#### Series on COVID data analysis 
 * Presenter: Damiaan Zwietering - [twitter](https://twitter.com/dzwietering)
 * Find all notebooks in [this repo](https://gitlab.com/dzwietering/corona/-/tree/master/pydata)
 * 21 Sept 2020: Exploring COVID data with pandas ([Replay](https://www.crowdcast.io/e/data-science-lunchlearn-COVID))
@@ -83,3 +84,22 @@ Most of the events use a notebook to go through example code. We will mainly use
 * Presenter: Yamini Rao
 * [Replay](https://www.crowdcast.io/e/data-visualisation-101)
 * [Notebook](https://github.com/IBMDeveloperUK/Data-Visualisation-with-Python/blob/master/Notebook/Data_Viz.ipynb): `https://github.com/IBMDeveloperUK/Data-Visualisation-with-Python/blob/master/Notebook/Data_Viz.ipynb`
+
+
+<a class="anchor" id="resources"></a>
+## More events and resources
+
+#### Call for Code Spot Challenge for Wildfires
+
+The ultimate goal of this challenge is to predict the area of wildfires in 7 regions in Australia for February 2021 with historical wildfire and both historical and forecast weather data, so you will be predicting fires before they happened!
+The final submissions will be on **31 January 2021**.
+
+* Landing page - http://ibm.biz/cfcsc-wildfires
+* GitHub repo - https://github.com/Call-for-Code/Spot-Challenge-Wildfires
+* Leaderboard - http://ibm.biz/cfcsc-wildfires-lead
+* Slack workspace - http://callforcode.org/slack Channel #cfcsc-wildfires
+* **Crowdcast webinars**
+   * 23 Nov 2020 - https://www.crowdcast.io/e/call-for-code-spot/
+   * 30 Nov 2020 - https://www.crowdcast.io/e/call-for-code-spot-2/
+   * 7 Dec 2020 - https://www.crowdcast.io/e/call-for-code-spot-3/
+   * More in January 2021
