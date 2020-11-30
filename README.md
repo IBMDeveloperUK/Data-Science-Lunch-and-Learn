@@ -5,6 +5,10 @@ Online at lunch time on [Crowdcast](https://www.crowdcast.io/ibmdevelopereurope)
 ## 30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
 * Presenter: Mridul Bhandari
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-9)
+* [blog](https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057)
+* [data](https://github.com/mridulrb/Predict-loan-eligibility-using-IBM-Watson-Studio/tree/master/Dataset)
+* [tutorial](https://developer.ibm.com/tutorials/predict-loan-eligibility-using-jupyter-notebook-ibm-spss-modeler/)
+* [repo](https://github.com/IBM/Predict-loan-eligibility-using-IBM-Watson-Studio)
 
 ## Content
 * [Jupyter notebooks](#Jupyter)
