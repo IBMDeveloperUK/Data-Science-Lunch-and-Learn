@@ -2,14 +2,6 @@
 
 Online at lunch time on [Crowdcast](https://www.crowdcast.io/ibmdevelopereurope)
 
-## 30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
-* Presenter: Mridul Bhandari
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-9)
-* [notebook](https://github.com/mridulrb/Predict-loan-eligibility-using-IBM-Watson-Studio): `https://raw.githubusercontent.com/mridulrb/Predict-loan-eligibility-using-IBM-Watson-Studio/master/loan-eligibility.ipynb`
-* [data](https://github.com/mridulrb/Predict-loan-eligibility-using-IBM-Watson-Studio/tree/master/Dataset), * [blog](https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057)
- and [tutorial](https://developer.ibm.com/tutorials/predict-loan-eligibility-using-jupyter-notebook-ibm-spss-modeler/)
-* [repo](https://github.com/IBM/Predict-loan-eligibility-using-IBM-Watson-Studio)
-
 ## Content
 * [Jupyter notebooks](#Jupyter)
 * [Upcoming events](#Upcoming)
@@ -22,10 +14,6 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
-
-#### 30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
-* Presenter: Mridul Bhandari
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-9)
 
 #### 7 Dec 2020: Deep Reinforcement Learning in Finance / Trading using Ray and RLlib
 * Presenter: Romeo Kienzler
@@ -41,7 +29,15 @@ Most of the events use a notebook to go through example code. We will mainly use
 <a class="anchor" id="Past"></a>
 ## Past events
 
-## 23 Nov 2020: Learn clustering algorithms using Python and scikit-learn
+### 30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
+* Presenter: Mridul Bhandari - [twitter](https://twitter.com/mridulrb) / [linkedIn](https://www.linkedin.com/in/mridul-bhandari/)
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-and-9)
+* [Notebook](https://github.com/mridulrb/Predict-loan-eligibility-using-IBM-Watson-Studio): `https://raw.githubusercontent.com/mridulrb/Predict-loan-eligibility-using-IBM-Watson-Studio/master/loan-eligibility.ipynb`
+* [Repo](https://github.com/IBM/Predict-loan-eligibility-using-IBM-Watson-Studio) and [data](https://github.com/mridulrb/Predict-loan-eligibility-using-IBM-Watson-Studio/tree/master/Dataset)
+* [Blog](https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057)
+ and [tutorial](https://developer.ibm.com/tutorials/predict-loan-eligibility-using-jupyter-notebook-ibm-spss-modeler/)
+
+### 23 Nov 2020: Learn clustering algorithms using Python and scikit-learn
 * Presenter: Fawaz Siddiqi - [twitter](https://twitter.com/fawaz_siddiqi) / [linkedIn](https://www.linkedin.com/in/fawazsiddiqi/)
 * [Replay](https://www.crowdcast.io/e/data-science-lunch-and-8)
 * [Slides](https://ibm.biz/LNL-Clustering)
