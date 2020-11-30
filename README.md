@@ -43,7 +43,8 @@ Most of the events use a notebook to go through example code. We will mainly use
 * [Slides](https://ibm.biz/LNL-Clustering)
 * [Handson material](https://github.com/fawazsiddiqi/LnL-CLustering)
 
-### Series on COVID data analysis by [Damiaan Zwietering](https://twitter.com/dzwietering)
+### Series on COVID data analysis 
+* Presenter: Damiaan Zwietering - [twitter](https://twitter.com/dzwietering)
 * Find all notebooks in [this repo](https://gitlab.com/dzwietering/corona/-/tree/master/pydata)
 * 21 Sept 2020: Exploring COVID data with pandas ([Replay](https://www.crowdcast.io/e/data-science-lunchlearn-COVID))
 * 5 Oct 2020: Modeling COVID data ([Replay](https://www.crowdcast.io/e/data-science-lunch-and-2))
