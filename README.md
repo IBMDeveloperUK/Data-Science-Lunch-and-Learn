@@ -16,19 +16,24 @@ Most of the events use a notebook to go through example code. We will mainly use
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
 
-### 7 Dec 2020: Deep Reinforcement Learning in Finance / Trading using Ray and RLlib
-* Presenter: Romeo Kienzler
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-10)
-
 ### 14 Dec 2020: Teaching Computers to Read
 * Presenter: Ed Shee
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-11)
+
+### 11 Jan 2021: Data visualisation with Python
+* Presenters: Margriet Groenendijk and Yamini Rao
 
 ### 2021: You?
 * Suggestions on topics and speakers are always welcome! Let me know by creating an [issue](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/issues) in this repo
 
 <a class="anchor" id="Past"></a>
 ## Past events
+
+### 7 Dec 2020: Deep Reinforcement Learning in Finance / Trading using Ray and RLlib
+* Presenter: Romeo Kienzler
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-and-10)
+* [Repo with material used](https://github.com/romeokienzler/DeepRL)
+* [Open AI gym](https://gym.openai.com)
 
 #### 30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
 * Presenter: Mridul Bhandari - [twitter](https://twitter.com/mridulrb) / [linkedIn](https://www.linkedin.com/in/mridul-bhandari/)
