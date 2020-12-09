@@ -33,7 +33,7 @@ Most of the events use a notebook to go through example code. We will mainly use
 * Presenter: Romeo Kienzler
 * [Replay](https://www.crowdcast.io/e/data-science-lunch-and-10)
 * [Repo with material used](https://github.com/romeokienzler/DeepRL)
-* [Open AI gym](https://gym.openai.com)
+* [Gym](https://gym.openai.com) from OpenAI
 
 #### 30 Nov 2020: Predict Loan Eligibility using Machine Learning Models
 * Presenter: Mridul Bhandari - [twitter](https://twitter.com/mridulrb) / [linkedIn](https://www.linkedin.com/in/mridul-bhandari/)
