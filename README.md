@@ -16,9 +16,6 @@ Most of the events use a notebook to go through example code. We will mainly use
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
 
-### 14 Dec 2020: Teaching Computers to Read
-* Presenter: Ed Shee
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-11)
 
 ### 11 Jan 2021: Data visualisation with Python
 * Presenters: Margriet Groenendijk and Yamini Rao
@@ -35,6 +32,10 @@ Most of the events use a notebook to go through example code. We will mainly use
 
 <a class="anchor" id="Past"></a>
 ## Past events
+
+### 14 Dec 2020: Teaching Computers to Read (part 1)
+* Presenter: Ed Shee
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-and-11)
 
 ### 7 Dec 2020: Deep Reinforcement Learning in Finance / Trading using Ray and RLlib
 * Presenter: Romeo Kienzler
