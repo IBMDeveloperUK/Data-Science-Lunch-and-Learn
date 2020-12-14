@@ -36,6 +36,7 @@ Most of the events use a notebook to go through example code. We will mainly use
 ### 14 Dec 2020: Teaching Computers to Read (part 1)
 * Presenter: Ed Shee
 * [Replay](https://www.crowdcast.io/e/data-science-lunch-and-11)
+* [Slides, notebook and data](https://github.com/IBMDeveloperUK/Analysing-Jokes-with-Natural-Language-Processing)
 
 ### 7 Dec 2020: Deep Reinforcement Learning in Finance / Trading using Ray and RLlib
 * Presenter: Romeo Kienzler
