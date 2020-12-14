@@ -23,6 +23,13 @@ Most of the events use a notebook to go through example code. We will mainly use
 ### 11 Jan 2021: Data visualisation with Python
 * Presenters: Margriet Groenendijk and Yamini Rao
 
+### 18 Jan 2021: AutoAI
+* Presenters: Gregory Bramble (AutoAI Architecture)
+
+### 25 Jan 2021: Beyond Accuracy: Fairness in Machine Learning
+* Presenters: Margriet Groenendijk
+
+
 ### 2021: You?
 * Suggestions on topics and speakers are always welcome! Let me know by creating an [issue](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/issues) in this repo
 
