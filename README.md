@@ -26,8 +26,8 @@ Most of the events use a notebook to go through example code. We will mainly use
 ### 18 Jan 2021: AutoAI
 * Presenters: Gregory Bramble (AutoAI Architecture)
 
-### 25 Jan 2021: Beyond Accuracy: Fairness in Machine Learning
-* Presenters: Margriet Groenendijk
+### 25 Jan 2021: Teaching Computers to Read (part 2)
+* Presenters: Ed Shee
 
 
 ### 2021: You?
