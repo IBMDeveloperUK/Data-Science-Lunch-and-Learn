@@ -17,17 +17,19 @@ Most of the events use a notebook to go through example code. We will mainly use
 ## Upcoming events
 
 
-### 11 Jan 2021: Data visualisation with Python
+### 11 Jan 2021: Live Data Visualisation with Python
 * Presenters: Margriet Groenendijk and Yamini Rao
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-14)
 
-### 18 Jan 2021: AutoAI
-* Presenters: Gregory Bramble (AutoAI Architecture)
+### 18 Jan 2021: Staying Competitive with AutoAI
+* Presenter: Gregory Bramble (AutoAI Architecture)
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-12)
 
 ### 25 Jan 2021: Teaching Computers to Read (part 2)
-* Presenters: Ed Shee
+* Presenter: Ed Shee
+* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-13)
 
-
-### 2021: You?
+### You?
 * Suggestions on topics and speakers are always welcome! Let me know by creating an [issue](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/issues) in this repo
 
 <a class="anchor" id="Past"></a>
