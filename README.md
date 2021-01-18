@@ -13,10 +13,6 @@ Many of the events use a **Jupyter notebook** to go through example code. We wil
 ## Upcoming events
 
 
-### 11 Jan 2021: Live Data Visualisation with Python
-* Presenters: Margriet Groenendijk and Yamini Rao
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-14)
-
 ### 18 Jan 2021: Staying Competitive with AutoAI
 * Presenter: Gregory Bramble (AutoAI Architecture)
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-12)
