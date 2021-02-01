@@ -12,12 +12,7 @@ Many of the events use a **Jupyter notebook** to go through example code. We wil
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
 
-
-### 18 Jan 2021: Staying Competitive with AutoAI
-* Presenter: Gregory Bramble (AutoAI Architecture)
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-12)
-
-### 25 Jan 2021: Teaching Computers to Read (part 2)
+### 1st Feb 2021: Teaching Computers to Read (part 2)
 * Presenter: Ed Shee
 * [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-13)
 
@@ -26,6 +21,10 @@ Many of the events use a **Jupyter notebook** to go through example code. We wil
 
 <a class="anchor" id="Past"></a>
 ## Past events
+
+### 18 Jan 2021: Staying Competitive with AutoAI
+* Presenter: Gregory Bramble (AutoAI Architecture)
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-and-12)
 
 ### 14 Dec 2020: Teaching Computers to Read (part 1)
 * Presenter: Ed Shee
