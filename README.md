@@ -12,15 +12,19 @@ Many of the events use a **Jupyter notebook** to go through example code. We wil
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
 
-### 1st Feb 2021: Teaching Computers to Read (part 2)
-* Presenter: Ed Shee
-* [Crowdcast event](https://www.crowdcast.io/e/data-science-lunch-and-13)
+
 
 ### You?
 * Suggestions on topics and speakers are always welcome! Let me know by creating an [issue](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/issues) in this repo
 
 <a class="anchor" id="Past"></a>
 ## Past events
+
+### 1st Feb 2021: Teaching Computers to Read (part 2)
+* Presenter: Ed Shee
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-and-13)
+* [Slides and Jupyter notebook](https://github.com/IBMDeveloperUK/Analysing-Jokes-with-Natural-Language-Processing)
+
 
 ### 18 Jan 2021: Staying Competitive with AutoAI
 * Presenter: Gregory Bramble (AutoAI Architecture)
