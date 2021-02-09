@@ -4,7 +4,7 @@ Online at lunch time on [Crowdcast](https://www.crowdcast.io/ibmdevelopereurope)
 
 ## Content
 * [Upcoming events](#Upcoming)
-* [Past events 2020](#Past)
+* [Past events](#Past)
 * [More events and resources](#resources)
 
 Many of the events use a **Jupyter notebook** to go through example code. We will mainly use Watson Studio to run these, but you can run them on any platform. To follow along in Watson Studio sign up for a [free IBM Cloud account](https://ibm.biz/BdfBr6) and create a Watson Studio service as described in [these instructions](https://github.com/IBMDeveloperUK/data-science-lunch-and-learn/blob/master/watson-studio-instructions.md). 
@@ -12,30 +12,34 @@ Many of the events use a **Jupyter notebook** to go through example code. We wil
 <a class="anchor" id="Upcoming"></a>
 ## Upcoming events
 
-
-
 ### You?
-* Suggestions on topics and speakers are always welcome! Let me know by creating an [issue](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/issues) in this repo
+* We are busy planning new events and creating new content and material. **Suggestions on topics and speakers are always welcome! Let us know by creating an [issue](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/issues) in this repo**
+
+### Coming soon
+* [Call for Code Wildfires Challenge](https://github.com/Call-for-Code/Spot-Challenge-Wildfires) - hear from the teams how they they build their model to predict wildfires
+* Trusted AI - learn about fairness and explainability 
+* Data exploration with Python - series using various datasets 
+* Deep learning series
 
 <a class="anchor" id="Past"></a>
 ## Past events
 
-### 1st Feb 2021: Teaching Computers to Read (part 2)
+#### 1st Feb 2021: Teaching Computers to Read (part 2)
 * Presenter: Ed Shee
 * [Replay](https://www.crowdcast.io/e/data-science-lunch-and-13)
 * [Slides and Jupyter notebook](https://github.com/IBMDeveloperUK/Analysing-Jokes-with-Natural-Language-Processing)
 
 
-### 18 Jan 2021: Staying Competitive with AutoAI
+#### 18 Jan 2021: Staying Competitive with AutoAI
 * Presenter: Gregory Bramble (AutoAI Architecture)
 * [Replay](https://www.crowdcast.io/e/data-science-lunch-and-12)
 
-### 14 Dec 2020: Teaching Computers to Read (part 1)
+#### 14 Dec 2020: Teaching Computers to Read (part 1)
 * Presenter: Ed Shee
 * [Replay](https://www.crowdcast.io/e/data-science-lunch-and-11)
 * [Slides, notebook and data](https://github.com/IBMDeveloperUK/Analysing-Jokes-with-Natural-Language-Processing)
 
-### 7 Dec 2020: Deep Reinforcement Learning in Finance / Trading using Ray and RLlib
+#### 7 Dec 2020: Deep Reinforcement Learning in Finance / Trading using Ray and RLlib
 * Presenter: Romeo Kienzler
 * [Replay](https://www.crowdcast.io/e/data-science-lunch-and-10)
 * [Repo with material used](https://github.com/romeokienzler/DeepRL)
@@ -103,14 +107,9 @@ Many of the events use a **Jupyter notebook** to go through example code. We wil
 #### Call for Code Spot Challenge for Wildfires
 
 The ultimate goal of this challenge is to predict the area of wildfires in 7 regions in Australia for February 2021 with historical wildfire and both historical and forecast weather data, so you will be predicting fires before they happened!
-The final submissions will be on **31 January 2021**.
+The final submissions were on **31 January 2021**.
 
 * Landing page - http://ibm.biz/cfcsc-wildfires
 * GitHub repo - https://github.com/Call-for-Code/Spot-Challenge-Wildfires
 * Leaderboard - http://ibm.biz/cfcsc-wildfires-lead
 * Slack workspace - http://callforcode.org/slack Channel #cfcsc-wildfires
-* **Crowdcast webinars**
-   * 23 Nov 2020 - https://www.crowdcast.io/e/call-for-code-spot/
-   * 30 Nov 2020 - https://www.crowdcast.io/e/call-for-code-spot-2/
-   * 7 Dec 2020 - https://www.crowdcast.io/e/call-for-code-spot-3/
-   * More in January 2021
