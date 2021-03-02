@@ -95,11 +95,6 @@ Many of the events use a **Jupyter notebook** to go through example code. We wil
 `https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/blob/master/notebooks/bias-in-crime-data-1-v0.ipynb`
 
 
-#### 8 Sept 2020 - Data Visualisation 101 with Python
-* Presenter: Yamini Rao
-* [Replay](https://www.crowdcast.io/e/data-visualisation-101)
-* [Notebook](https://github.com/IBMDeveloperUK/Data-Visualisation-with-Python/blob/master/Notebook/Data_Viz.ipynb): `https://github.com/IBMDeveloperUK/Data-Visualisation-with-Python/blob/master/Notebook/Data_Viz.ipynb`
-
 
 <a class="anchor" id="resources"></a>
 ## More events and resources
