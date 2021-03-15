@@ -24,6 +24,12 @@ Many of the events use a **Jupyter notebook** to go through example code. We wil
 <a class="anchor" id="Past"></a>
 ## Past events
 
+#### 15th March 2021: Data Visualisation 101 with Python
+* Presenter: Yamini Rao
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-and-14)
+* [Slides and Jupyter notebook](https://github.com/IBMDeveloperUK/Data-Visualisation-with-Python)
+
+
 #### 1st Feb 2021: Teaching Computers to Read (part 2)
 * Presenter: Ed Shee
 * [Replay](https://www.crowdcast.io/e/data-science-lunch-and-13)
