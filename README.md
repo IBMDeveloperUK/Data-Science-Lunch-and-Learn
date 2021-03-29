@@ -16,13 +16,18 @@ Many of the events use a **Jupyter notebook** to go through example code. We wil
 * We are busy planning new events and creating new content and material. **Suggestions on topics and speakers are always welcome! Let us know by creating an [issue](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn/issues) in this repo**
 
 ### Coming soon
-* [Call for Code Wildfires Challenge](https://github.com/Call-for-Code/Spot-Challenge-Wildfires) - hear from the teams how they they build their model to predict wildfires
 * Trusted AI - learn about fairness and explainability 
 * Data exploration with Python - series using various datasets 
 * Deep learning series
 
 <a class="anchor" id="Past"></a>
 ## Past events
+
+#### 29th March 2021: Data Visualisation 101 with Python
+* Presenter: Damiaan Zwietering - [twitter](https://twitter.com/dzwietering)
+* Find all notebooks in [this repo](https://gitlab.com/dzwietering/corona/-/tree/master/pydata)
+* [Replay](https://www.crowdcast.io/e/data-science-lunch-and-15)
+
 
 #### 15th March 2021: Data Visualisation 101 with Python
 * Presenter: Yamini Rao
