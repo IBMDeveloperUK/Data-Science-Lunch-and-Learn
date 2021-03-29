@@ -23,7 +23,7 @@ Many of the events use a **Jupyter notebook** to go through example code. We wil
 <a class="anchor" id="Past"></a>
 ## Past events
 
-#### 29th March 2021: Data Visualisation 101 with Python
+#### 29th March 2021: Update on COVID data analysis
 * Presenter: Damiaan Zwietering - [twitter](https://twitter.com/dzwietering)
 * Find all notebooks in [this repo](https://gitlab.com/dzwietering/corona/-/tree/master/pydata)
 * [Replay](https://www.crowdcast.io/e/data-science-lunch-and-15)
